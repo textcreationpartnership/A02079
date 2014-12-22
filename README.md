@@ -37,18 +37,24 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The blacke bookes messenger Laying open the life and death of Ned Browne one of the most notable cut
+
+1. To the Curteous Reader Health.
+
+1. A Table of the words of Artlately deuised by Ned Browne and his associates, to Crosbite the old Phrases vsed in the manner of Conny-catching.
+
 #####Body#####
 
-1. A pleasant Tale how Ned Browne crossebit a Maltman.
+1. THE LIFE AND death of Ned Browne, a notable Cutpurse and Conny-catcher.
 
-1. A merrie tale how Ned Browne vsed a Priest.
+    _ A pleasant Tale how Ned Browne crossebit a Maltman.
 
-1. A pleasant tale how Ned Brown kist a Gentlewoman and cut her purse.
+    _ A merrie tale how Ned Browne vsed a Priest.
 
-1. How Ned Browne let fall a key,
+    _ A pleasant tale how Ned Brown kist a Gentlewoman and cut her purse.
 
-1. A merry Ieast how Ned Brownes wife was crossebitten in her owne Arte.
+    _ How Ned Browne let fall a key,
+
+    _ A merry Ieast how Ned Brownes wife was crossebitten in her owne Arte.
 
 **Types of content**
 
